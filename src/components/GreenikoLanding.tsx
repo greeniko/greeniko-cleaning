@@ -107,11 +107,11 @@ const WHY_CHOOSE = [
 ];
 
 const BEFORE_AFTER = [
-  { label: 'Kitchen stove', before: '/images/stove-before.jpg', after: '/images/stove-after.jpg' },
+
+  { label: 'Kitchen stove', before: '/images/stove-before.JPG', after: '/images/stove-after.PNG' },
   { label: 'Bathroom', before: '/images/toilet-before.jpg', after: '/images/toilet-after.jpg' },
   { label: 'Bathroom counter', before: '/images/counter-before.jpg', after: '/images/counter-after.jpg' },
   { label: 'Shower & tile', before: '/images/shower-before.jpg', after: '/images/shower-after.jpg' },
-  { label: 'Kitchen floor', before: '/images/floor-before.jpg', after: '/images/floor-after.jpg' },
 ];
 
 const FAQ_ITEMS = [
